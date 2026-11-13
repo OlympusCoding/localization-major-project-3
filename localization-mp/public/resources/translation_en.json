@@ -1,0 +1,140 @@
+{
+    "website-title": "Localization Major Project 3",
+    "translation": {
+        "language-code": "en",
+        "next-lang-code": "ar",
+        "page-orientation": "ltr",
+        "nav-items": {
+            "translation": "Translation",
+            "conversions": "Conversions",
+            "structure": "Structure",
+            "works-cited": "Works Cited"
+        },
+        "change-button-text": "Change To Arabic",
+        "page-title": "Translation in Localization",
+        "page-content": [
+            {
+                "section-title": "",
+                "section-content": "Translating the English text to Arabic is one of the most important parts of localizing a webpage, as it allows users of the site to view and understand the content without having to be familiar with the original language."
+            },
+            {
+                "section-title": "Challenges",
+                "section-content": "There are a few challenges that come with translating text, especially for websites with many technical terms.\n Many technical terms are from English, and therefore have no direct counterpart to many modern words in Arabic.  Linguists and translators can most often create equivalent words or phrases to correctly convey the correct meaning."
+            },
+            {
+                "section-title": "Transliteration",
+                "section-content": "Sometimes this process is done through transliteration, or translating a word by finding the closest possible letters and mapping them almost one-to-one to the target language through phonetic. For example, transliterating the word iPhone to إيفون.  Transliteration can increase the difficulty of unfamiliar users of the website to know what a word truly represents, as it is a phonetic depiction of another language's word in the target language."
+            },
+            {
+                "section-title": "Dialects and Modern Standard Arabic (MSA)",
+                "section-content": "For most technical websites, Modern Standard Arabic (MSA) is used, also called Fus'ha (فصحى). MSA has been used to translate the entirety of this website into the target language. There are many other dialects of Arabic however, and this should be taken into account when creating a translation for a specific region. “Arabic is a very rich language in term of dialects, accents, registers and styles. Variations in Arabic dialects were influenced by historic and geographic factors. For this reason, it is critical to identify the regional locale of your target audience” <a href='/works-cited'>(Shiblaq, 53)</a>. Making sure that any dialect that is important to the target culture is included is extremely important to making sure the content is as understandable as possible for all users."
+            },
+            {
+                "section-title": "Translating this Website",
+                "section-content": "<a href='/works-cited'>Google Translate</a> (although not a perfect tool) has been used to translate the site from English to Arabic. This site uses code to allow the user to choose between English and Arabic through a very simple toggle that is easily accessible in the top right hand corner of the screen."
+            }
+        ]
+    },
+    "conversions": {
+        "language-code": "en",
+        "next-lang-code": "ar",
+        "page-orientation": "ltr",
+        "nav-items": {
+            "translation": "Translation",
+            "conversions": "Conversions",
+            "structure": "Structure",
+            "works-cited": "Works Cited"
+        },
+        "change-button-text": "Change To Arabic",
+        "page-title": "Conversions & Formats",
+        "page-content": [
+            {
+                "section-title": "",
+                "section-content": "Many different types of conversions are needed to be made when <a href='/translation'>localizing a website</a> to another langauge and, moreover, another culture."
+            },
+            {
+                "section-title": "Symbols",
+                "section-content": "Symbols are usually changed to text in localized websites to allow for more global meaning and not have to have different icons for every language. It instead is just written text on a button for instance that tells its function. “In an internationalized-intended website, cultural-dependent symbols should be avoided, such as icons representing local holidays, historical events or slogans instead these information can be used on the local versions of the website but not on the global one” <a href='/works-cited'>(Bader, 34)</a>. For different languages and cultures, icons can have vastly different meanings, and therefore must be either avoided, or translated to meet the knowldge and understanding of the whole target audience.  “Text icons must be translated to Arabic language when localizing them, icons with arrows must maintain their correct direction when changing text direction right to left, animal symbols have different meanings, for Islamic culture pigs are considered unclean and should be avoided. Therefore, to avoid cultural confusion, design most of the icons as text” <a href='/works-cited'>(Al-Sedrani et. al)</a>. Making sure that symbols are used as little as possible and if necessary to use, translated between cultures ensures that all users of the site will understand the function of the symbol and not be confused or offended by its use."
+            },
+            {
+                "section-title": "Measurements",
+                "section-content": " Measurements, such as lengths, should be converted to what the regional standard of the target culture or audience is. If the english version uses inches, and feet, then the <a href='/translation'>translation</a> could include the numbers in terms of centimeters and meters for example."
+            },
+            {
+                "section-title": "Currency",
+                "section-content": "“For the e-commerce websites' content, our study checked if the site uses a variety of Arabic currency for different countries. The results show that 66% of the websites have an option for changing currency” <a href='/works-cited'>(Al-Sedrani et. al)</a>. Allowing the changing of the currency that is displayed to be what the region specific currency of the intended user can also allow the site to be more user friendly, as the user does not have to use external means to figure out how much a project or service costs on the site. They can see it already converted right there in front of them, leading to a better user experience."
+            },
+            {
+                "section-title": "Dates",
+                "section-content": "Making sure that the date format standard is converted to the target region is critical for making sure information is read and interpreted correctly. If the target culture uses YYYY/MM/DD instead of the American MM/DD/YYYY or the European DD/MM/YYYY, it must be converted to be read properly."
+            }
+        ]
+    },
+    "structure": {
+        "language-code": "en",
+        "next-lang-code": "ar",
+        "page-orientation": "ltr",
+        "nav-items": {
+            "translation": "Translation",
+            "conversions": "Conversions",
+            "structure": "Structure",
+            "works-cited": "Works Cited"
+        },
+        "change-button-text": "Change To Arabic",
+        "page-title": "Structure of the Webpage",
+        "page-content": [
+            {
+                "section-title": "Page Orientation",
+                "section-content": "The writing system of Arabic is written in the opposite horizontal direction to the latin script, in this case, with English. The website must be able to be flipped accordingly to accommodate this change, and make sure that reading the Arabic text is as smooth as possible and is not hampered by the screen orientation being broken. “The classification of the Arabic language is Abjad, the same as Hebrew, and both have their origin in the Alphabetic system. What distinguishes Abjads from other scripts is that they are written from right to left” <a href='/works-cited'>(Shiblaq, 15)</a>. This means that in order to have a website with both types of scripts, it must be able to flip back and forth and adjust its format to handle both types."
+            },
+            {
+                "section-title": "Menu Position",
+                "section-content": "In addition to the text being aligned and read right to left, the menu positions must also be flipped. A standard layout for a website has the branding in the top left, and navigation buttons to the right of that. However, in a right-to-left website, this navigation bar is flipped to have the branding on the top right and the navigation buttons near the top left. This also means that any menus that may appear should appear on the right side by default. (This may be changed depending on the design however).  “Arabic language has a special characteristic its writing direction is from right to left. The website in this case should allow presenting the characters in this direction, which will lead to aligning the bulleted lists as well as indentation of paraaraphs and menus to the right” <a href='/works-cited'>(Al-Sedrani et. al)</a>. Text and bullet points, as well as certain types of menus, must also be pushed to the right side when writing in the Arabic script, and this helps with where the eye leads the user. When we read left to right, the menu being on the left makes sense as it is the central point for our eye to get drawn back to. For Arabic readers, it is the opposite."
+            },
+            {
+                "section-title": "Form & Table Considerations",
+                "section-content": "Due to the flipped nature of the writing, forms and tables must also be flipped in order to be readable in arabic. For forms, the labels and placeholders must be written on the right side of the form. For tables, the title cells should be on the top and right sides and read from right to left."
+            }
+        ]
+    },
+    "works-cited": {
+        "language-code": "en",
+        "next-lang-code": "ar",
+        "page-orientation": "ltr",
+        "nav-items": {
+            "translation": "Translation",
+            "conversions": "Conversions",
+            "structure": "Structure",
+            "works-cited": "Works Cited"
+        },
+        "change-button-text": "Change To Arabic",
+        "page-title": "Works Cited",
+        "page-content": [
+            {
+                "section-title": "Source 1",
+                "section-content": "Bader, Waseem. 'Website localization techniques.' International Journal of Computer Applications (2016). "
+            },
+            {
+                "section-title": "Source 2",
+                "section-content": "Shiblaq, F. K. (2016). Localization Provision in New Zealand: Arabic Speakers' Preference for Different Paralingual Webpage Layouts. (Thesis, Doctor of Philosophy (PhD)). University of Waikato, Hamilton, New Zealand. Retrieved from https://hdl.handle.net/10289/9892"
+            },
+            {
+                "section-title": "Source 3",
+                "section-content": "Al-Sedrani, A., and H. S. Al-Khalifa. “Design Considerations for the Localization of Arabic E-Commerce Websites.” Conference-paper. Seventh International Conference on Digital Information Management (ICDIM 2012 [Macau, Macao], 2012, pp. 331-335, https://doi.org/10.1109/ICDIM.2012.6360094."
+            },
+            {
+                "section-title": "Source 4",
+                "section-content": "Team, Transliterate. “Arabic Typing (العربية) - English to Arabic Transliteration.” Transliterate, www.transliteration.live/typing/english-to/arabic. Accessed 12 Nov. 2026. "
+            },
+            {
+                "section-title": "Source 5",
+                "section-content": "“Multi-Language Support in Reactjs.” GeeksforGeeks, GeeksforGeeks, 23 July 2025, www.geeksforgeeks.org/reactjs/multi-language-support-in-reactjs/. "
+            },
+            {
+                "section-title": "Source 6",
+                "section-content": "Google Translate, Google, translate.google.ae/?hl=en-GB&sl=en&tl=ar&op=translate. Accessed 12 Nov. 2026. "
+            }
+        ]
+    }
+    
+}
